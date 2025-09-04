@@ -22,14 +22,7 @@ It can be used by educational institutions to **identify at-risk students** earl
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Model:** Classification algorithms (Logistic Regression, Random Forest, etc.)  
-- **Frontend (optional):** Streamlit / Flask for web interface  
+- **Frontend:** Streamlit / Flask for web interface  
 
----
 
-## 🚀 Installation Guide  
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
-   cd student-performance-prediction
 
